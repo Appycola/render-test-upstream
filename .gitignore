@@ -3,11 +3,8 @@
 data*
 .vscode
 .idea
-*.json
-*.pickle
 .netrc
 log.txt
-accounts/*
 Thumbnails/*
 list_drives.txt
 cookies.txt
